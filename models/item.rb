@@ -4,5 +4,6 @@ class Item
   
   def intialize(params)
     @name = params[:name]
+    
   
 end
